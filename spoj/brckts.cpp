@@ -1,3 +1,7 @@
+//http://www.spoj.com/problems/BRCKTS/
+
+***********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
@@ -19,7 +23,6 @@ void merg(node &res,node &le,node &ri)
 
 void check(node &root)
 {
-    //cout<<root.ob<<" OB "<<root.cb<<" CB\n";
     if((root.ob==0)&&(root.cb==0))
     printf("YES\n");
     else
@@ -55,7 +58,6 @@ void update(int s,int e,int i,int p)
 {
     if(s==e&&s==p)
     {
-        //cout<<i<<" I\n";
         if(c[s-1]=='(')
         {
             c[s-1]=')';
@@ -90,7 +92,6 @@ int main()
         cin.ignore();
         scanf("%s",c);
         cin.ignore();
-        //cout<<c<<"C\n";
         build(1,n,1);
         scanf("%d",&m);
         printf("Test %d:\n",j);
@@ -99,7 +100,6 @@ int main()
             scanf("%d",&k);
             if(k==0)
              {
-             	//cout<<c<<"C\n";
              	check(tree[1]);
              }
             else
