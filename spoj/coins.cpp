@@ -1,3 +1,7 @@
+Problem statement : http://www.spoj.com/problems/COINS/
+
+************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <map>
