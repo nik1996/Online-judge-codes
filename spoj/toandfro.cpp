@@ -1,3 +1,7 @@
+Problem Code:http://www.spoj.com/problems/TOANDFRO/
+
+*********************************************************************************************************************************
+
 #include <iostream>
 #include<string.h>
 #include<stdio.h>
