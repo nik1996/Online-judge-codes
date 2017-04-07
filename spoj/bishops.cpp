@@ -1,7 +1,10 @@
+//Problem Link : http://www.spoj.com/problems/BISHOPS/
+
+*************************************************************************************************************************************
+
 #include <iostream>
 #include <string.h>
 #include <stdio.h>
-//#include<conio.h>
 
 using namespace std;
 
@@ -85,6 +88,5 @@ int main()
            cout<<"\n";
        }
     }
-    //getch();
     return 0;
 }
