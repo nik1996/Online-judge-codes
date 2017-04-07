@@ -1,3 +1,7 @@
+//Problem Link:http://www.spoj.com/problems/ABSYS/
+
+***********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <string>
