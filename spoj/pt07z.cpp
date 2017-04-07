@@ -1,3 +1,7 @@
+//Problem Link : http://www.spoj.com/problems/PT07Z/
+
+**********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <list>
