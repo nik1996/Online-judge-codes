@@ -1,3 +1,7 @@
+//Problem Code : http://www.spoj.com/problems/EDIST/
+
+*************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <string>
