@@ -1,4 +1,4 @@
-Problem Link:http://www.spoj.com/problems/ACODE/
+//Problem Link:http://www.spoj.com/problems/ACODE/
 
 ********************************************************************************************************************************
 
