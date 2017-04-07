@@ -1,24 +1,10 @@
-#include<cstdio>
-#include<iostream>
-#include<map>
-#include<set>
-#include<stack>
-#include<queue>
-#include<algorithm>
-#include<cmath>
-#include<cstdlib>
-#include<cstring>
+//Problem Link : http://www.spoj.com/problems/INVCNT/
 
-#define INF 2000000000
-#define INF_LL 2000000000000000000ll
-#define MOD_7 1000000007
-#define MOD_9 1000000009
+*************************************************************************************************************************************
 
-typedef long long ll;
-
-using namespace std;
-
-int a[100010],tmp[100010];
+#include <stdio.h>
+ 
+int a[200005],tmp[200005];
 long long int mer(int l,int m,int r)
 {
     int i,j,k;
@@ -52,23 +38,25 @@ long long int inv(int l,int h)
     long long int c=0;
     if(l<h)
     {
-        m=(l+h)/2;
+        m=(l+h)>>1;
         c+=inv(l,m);
         c+=inv(m+1,h);
         c+=mer(l,m+1,h);
     }
     return c;
 }
-
 int main()
 {
-    freopen("input.txt","r",stdin);
-    freopen("out.txt","w",stdout);
-    int i;
+    int t,n,i;
     long long int x;
-    for(i=0;i<100000;i++)
-     scanf("%d",&a[i]);
-    x=inv(0,100000-1);
-    printf("%lld\n",x);
+    scanf("%d",&t);
+    while(t--)
+    {
+        scanf("%d",&n);
+        for(i=0;i<n;i++)
+         scanf("%d",&a[i]);
+        x=inv(0,n-1);
+        printf("%lld\n",x);
+    }
     return 0;
-}
+}   
