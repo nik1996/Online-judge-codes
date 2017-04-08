@@ -1,3 +1,7 @@
+//Problem Link : http://www.spoj.com/problems/AIBOHP/
+
+**********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <string>
