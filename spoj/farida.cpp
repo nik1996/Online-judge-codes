@@ -1,3 +1,7 @@
+//Problem Link : http://www.spoj.com/problems/FARIDA/
+
+**************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <climits>
