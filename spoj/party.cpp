@@ -1,3 +1,7 @@
+//Problem Link : http://www.spoj.com/problems/PARTY/
+
+************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
