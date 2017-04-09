@@ -1,3 +1,7 @@
+//Problem Link : http://www.spoj.com/problems/TRT/
+
+************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
