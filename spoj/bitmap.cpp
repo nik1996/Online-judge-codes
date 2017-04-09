@@ -1,3 +1,7 @@
+//Problem Link : http://www.spoj.com/problems/BITMAP/
+
+*************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <queue>
