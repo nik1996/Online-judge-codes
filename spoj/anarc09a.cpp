@@ -1,3 +1,7 @@
+//Problem URL :@http://www.spoj.com/problems/ANARC09A/
+
+*********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <cmath>
