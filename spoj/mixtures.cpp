@@ -1,3 +1,7 @@
+//Problem URL : http://www.spoj.com/problems/MIXTURES/
+
+**********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
