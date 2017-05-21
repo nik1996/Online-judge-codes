@@ -1,4 +1,4 @@
-//Problem URL :@http://www.spoj.com/problems/ANARC09A/
+//Problem URL :http://www.spoj.com/problems/ANARC09A/
 
 *********************************************************************************************************************************
 
