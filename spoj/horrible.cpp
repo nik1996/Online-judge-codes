@@ -1,3 +1,7 @@
+//Problem URL : http://www.spoj.com/problems/HORRIBLE/
+
+**************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <string.h>
