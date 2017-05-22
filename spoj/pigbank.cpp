@@ -1,3 +1,7 @@
+//Problem URL : http://www.spoj.com/problems/PIGBANK/
+
+***********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>
