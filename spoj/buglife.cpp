@@ -1,3 +1,7 @@
+//Problem URL : http://www.spoj.com/problems/BUGLIFE/
+
+***********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <list>
