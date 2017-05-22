@@ -1,3 +1,7 @@
+//Problem URL : http://www.spoj.com/problems/ARRAYSUB/
+
+*************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <deque>
