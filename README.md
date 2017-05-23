@@ -1,4 +1,4 @@
-It contains code for Online judjes - Spoj, Codechef, Interviewbit.
+It contains code for Online judjes - Spoj and Codechef.
 
 The link to problem statement is provided in the first line.
 
