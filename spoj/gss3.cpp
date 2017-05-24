@@ -1,3 +1,7 @@
+//Problem URL : http://www.spoj.com/problems/GSS3/
+
+*************************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <cmath>
