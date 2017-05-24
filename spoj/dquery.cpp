@@ -1,3 +1,7 @@
+//Problem URL : http://www.spoj.com/problems/DQUERY/
+
+***********************************************************************************************************************************
+
 #include <iostream>
 #include <cstdio>
 #include <cmath>
