@@ -1,5 +1,6 @@
 //Problem URL : https://www.codechef.com/JAN17/problems/FOURSQ
 
+//This solution will pass two subtasks
 *************************************************************************************************************************************
 
 #include <iostream>
