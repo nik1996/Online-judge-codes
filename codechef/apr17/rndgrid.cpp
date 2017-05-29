@@ -1,5 +1,6 @@
 //Problem URL : https://www.codechef.com/APRIL17/problems/RNDGRID
 
+//This will pass two subtasks.
 **********************************************************************************************************************************
 
 #include <iostream>
